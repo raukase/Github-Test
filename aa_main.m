@@ -3,7 +3,7 @@ clc
 % close all
 
 global flag_contr Gf Hs bp Ad bd N Nz Nt x A b c z dz dt Kvu Kvv Kuu Kvu1 Kvv1 Pvv1 n10 n20 n21 c1 c4 lam1 lam2 x_vec ode_sysc
-
+test = 50;
 % control on flag_contr = 1: on, 0: off
 flag_contr = 1;
 scaleval = 1;
