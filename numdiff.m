@@ -17,3 +17,4 @@ end
 % Test
 % whaddap
 testnumdiff = 400;
+testnumdiff2 = 400;
